@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is our master piece done , chapter one edited in main branch 
-=======
-this is edited in feature 1 branch
->>>>>>> feature1
